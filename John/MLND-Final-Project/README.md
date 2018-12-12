@@ -1,0 +1,9 @@
+## Proposal
+
+ - [review](https://review.udacity.com/#!/reviews/1497329)
+
+## Download Data
+
+ - [market_train_df.feather (239Mb)](https://www.kaggleusercontent.com/kf/6502255/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..C4hZquo5Hb3gMmvKfFCEhw.vpjNjXocDi8GjMQfIxO0mh4pvWGfBa7YfqdAx-WqdEkvMTlRsJ8pvVaTtCR_Nfl0Qwc7vtIMAcpztFrzYoUAd8OMdkec8-zaC6gkYwP1hx_nftlyPCkvVcDCBFSkqQ_AeGbYa6rT0JZGRC9FNZSywsNbHb5GSWW8cEJq6-nZlZA.XW7w9wAshKOuw8yrVT1Rnw/market_train_df.feather)
+ - [news_train_df.feather (2.1Gb)](https://www.kaggleusercontent.com/kf/6502255/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..zc7s6F5pJ1RYL155NaKbQA.aN1hfhyJkgZp8Rov7Chlxwr7_e6c-3zy48cRFj8-Otd-Q1vlJZzeruIFy_cu1nGhb3620SDQZflpI-_ef3Vv0iaYGtCQrTVyygRZIYQ1hlaKcG1KEgFiGnpxauq9Tkx2Glx6J1ABamzgoC2cvgNsdKKHoy7oe4AQpFlEECobuLU.OQlg4SKkskbiPI0pbTHDUg/news_train_df.feather)
+ - [bac_market_data.feather (355Kb)](https://www.kaggleusercontent.com/kf/6502917/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rk9nnrWpg2edBKnQ8G5AjA.E4crRO9QeGNtfGHRcv_RUQnoktxWggdwkE2aBmhg0_SHtyqeM7mKvq6YqmX4L6mltzv-XCPJMklO-Dvj_rmgLuWF7oJJC1wz0ocJKtf5OBFd9dHe7LTRHOpDNmVO2mBJEsJiKOY50DFYIN3M1LXCrQ.o92VfyLCky3YP5jwzT5qHA/bac_market_data.feather)
